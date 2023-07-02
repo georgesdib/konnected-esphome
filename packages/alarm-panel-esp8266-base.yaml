@@ -37,6 +37,6 @@ substitutions:
 packages:
   remote_package:
     url: http://github.com/georgesdib/konnected-esphome
-    ref: master
+    ref: inverted
     refresh: 5min
     file: packages/core-esp8266.yaml
