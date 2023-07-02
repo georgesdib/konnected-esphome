@@ -31,8 +31,8 @@
 packages:
 
   remote_package:
-    url: http://github.com/georgesdib/konnected-esphome@inverted
-    ref: master
+    url: http://github.com/georgesdib/konnected-esphome
+    ref: inverted
     refresh: 5min
     files:
 
